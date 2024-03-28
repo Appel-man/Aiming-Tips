@@ -2,7 +2,7 @@
 Zombie Challange, try to get to 5 minutes or above:
 https://www.roblox.com/games/2446927310/Zombie-Aim-Challenge
 
-Aim H4x:
+Aim H4x, (Look in the Tutorial Aiming Tips, very interesting!):
 https://www.roblox.com/games/2674451148/Aim-H4X-Bot-Aim-Trainer
 
 Trainer Website:
@@ -24,3 +24,9 @@ Download the latest version, set the cap to whatever you like and enable alt ent
 Go to mouse settings and advanced/extra mouse settings, a new white popup will come and go to "Pointer Options", then disable the "Enhance Pointer Precision" checkbox, set the pointer speed to 5/11 or 6/11
 
 ![image](https://github.com/Appel-man/Aiming-Tips/assets/73490542/b42ac1aa-f9c6-4c49-8855-7895172f1f44)
+
+# General Tips:
+If you don't know what your DPI should be start from 400.
+
+Set your Roblox graphics to 2.
+
