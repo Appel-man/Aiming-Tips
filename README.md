@@ -25,6 +25,11 @@ Go to mouse settings and advanced/extra mouse settings, a new white popup will c
 
 ![image](https://github.com/Appel-man/Aiming-Tips/assets/73490542/b42ac1aa-f9c6-4c49-8855-7895172f1f44)
 
+Go to "Adjust the appearance and performance of Windows" and select "Adjust for best Performance"
+
+![image](https://github.com/Appel-man/Aiming-Tips/assets/73490542/956dd949-cb94-42eb-bfc7-c188cca5d046)
+
+
 # General Tips:
 If you don't know what your DPI should be start from 400.
 
