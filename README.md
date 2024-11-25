@@ -16,7 +16,7 @@ Use TimerResolution, Tutorial:
 https://www.youtube.com/watch?v=z8AQ-q5aVWc&list=PLGqvuEyFrxwJpyrlXYWHoKyAh4r4ee2Gm&index=2
 
 Enable Ultimate Performance boost, Tutorial:
-https://www.youtube.com/watch?v=5Qn0JqY4dAo
+https://youtu.be/bBdMKz18TWk?si=uBWgvu-zKrpbWZgQ
 
 Use FPS unlocker and fix Alt+Enter:
 https://github.com/axstin/rbxfpsunlocker/releases
